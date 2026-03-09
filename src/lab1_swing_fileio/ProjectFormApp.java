@@ -8,6 +8,7 @@ public class ProjectFormApp {
         JFrame frame = new JFrame("Software Project Registration Form");
 
         frame.setSize(500, 450);
+        //test
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         ProjectFormPanel panel = new ProjectFormPanel();
