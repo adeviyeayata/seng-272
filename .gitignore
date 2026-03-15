@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 *.class
 .idea/
 target/
 *.iml
+=======
+/bin/
+>>>>>>> 1b88cf1e09cc886002e5d0755b5ec2644314aae3
